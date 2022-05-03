@@ -197,6 +197,11 @@ textarea {
   .cv-mobdisplay {
     display: block;
   }
+
+  .caption-bg {
+    background: #FEFBE7;
+    border-radius: 10px;
+  }
 }
 
 /* Extra small devices (phones, 600px and down) */
@@ -316,6 +321,11 @@ textarea {
 
   .cv-mobdisplay {
     display: block;
+  }
+
+  .caption-bg {
+    background: #FEFBE7;
+    border-radius: 10px;
   }
 }
 
@@ -438,6 +448,11 @@ textarea {
   .cv-mobdisplay {
     display: block;
   }
+
+  .caption-bg {
+    background: #FEFBE7;
+    border-radius: 10px;
+  }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -550,6 +565,11 @@ textarea {
 
   .cv-mobdisplay {
     display: none;
+  }
+
+  .caption-bg {
+    background: #FEFBE7;
+    border-radius: 10px;
   }
 }
 
@@ -674,6 +694,11 @@ textarea {
   .cv-mobdisplay {
     display: none;
   }
+
+  .caption-bg {
+    background: #FEFBE7;
+    border-radius: 10px;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -762,11 +787,11 @@ textarea {
 
   .contents h1 {
     font-size: 3rem;
-    font-weight: bolder;
+    font-weight: 900;
   }
 
   .contents h2 {
-    font-weight: bolder;
+    font-weight: 400;
   }
 
   .single_gallery {
@@ -787,7 +812,7 @@ textarea {
 
   .description h3 {
     border-bottom: 2px solid #232323;
-    background: #d8d5d5;
+    background: #FEFBE7;
     padding: 10px;
     font-weight: 500;
   }
@@ -806,6 +831,11 @@ textarea {
 
   .cv-mobdisplay {
     display: none;
+  }
+
+  .caption-bg {
+    background: #FEFBE7;
+    border-radius: 10px;
   }
 }
 
